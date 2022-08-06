@@ -1,0 +1,38 @@
+*{
+font-family:'Raleway', sans-serif; 
+}
+.bg-navbar{
+background-color: #28a745;
+}
+.card-title{
+font-size: 20pt;
+font-weight: 300; 
+}
+.card-subtitle{
+font-size: 13pt;
+font-weight: 300;    
+}
+.card-text{
+font-size: 13pt;
+font-weight: 300; 
+}
+.precios{
+text-align: right;    
+}
+.precio1{
+color: #28a745;
+font-weight: bold;
+font-size: 20pt;
+}
+.precio2{
+font-size: 16pt;
+font-weight: 300;   
+}
+.formulario{
+background-color: #28a745;
+text-align: center;
+}
+.titulo_formulario{
+color: white;
+font-size: 21pt;
+}

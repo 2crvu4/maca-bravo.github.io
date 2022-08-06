@@ -1,0 +1,55 @@
+*{
+font-family: 'Raleway', sans-serif;
+}
+
+body{
+background-image: url(../imgs/bg_.png);
+background-attachment: fixed;
+background-repeat: repeat;
+}
+
+.bg-navbar{
+background-color:black; opacity:50%;
+color: white;
+}
+i{
+color: white; opacity:50%;    
+}
+
+h1{
+color: white;
+font-size: 30pt;
+font-weight: 900;
+}
+h2{
+color: white;
+font-size: 25pt;
+}
+.btn{
+    font-weight: 100;    
+    }
+.card-title{
+    font-size: 16pt;
+    font-weight: 600; 
+    }
+.card-subtitle{
+    font-size: 13pt;
+    font-weight: 500;    
+    }
+.boton{
+    text-align: left;
+    font-size: 16pt;
+    font-weight: 300;  
+    }
+hr{
+color: aliceblue; opacity:20%;   
+}
+
+footer{
+color: white;
+font-size: 12pt;
+font-weight: 100;    
+}
+
+   
+
